@@ -26,32 +26,23 @@
 ### 📞 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄
 
 
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="transition: transform 0.2s ease-in-out; display: inline-block; margin: 0 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-username" target="_blank" style="transition: transform 0.2s ease-in-out; display: inline-block; margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
-         alt="Facebook"
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank" style="transition: transform 0.2s ease-in-out; display: inline-block; margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-         alt="Instagram"
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://your-portfolio-url.com" target="_blank" style="transition: transform 0.2s ease-in-out; display: inline-block; margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" 
-         alt="Portfolio"
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-</div>
+</p>
 
 
 ---
