@@ -35,20 +35,21 @@
 ### 🛠️ Tech Stack
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 600px; margin: auto;">
-  <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="40" height="40" style="margin: 6px;" />
-  <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="40" height="40" style="margin: 6px;" />
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="40" height="40" style="margin: 6px;" />
-  <img title="React" src="https://skillicons.dev/icons?i=react" width="40" height="40" style="margin: 6px;" />
-  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" style="margin: 6px;" />
-  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" style="margin: 6px;" />
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" style="margin: 6px;" />
-  <img title="Java" src="https://skillicons.dev/icons?i=java" width="40" height="40" style="margin: 6px;" />
-  <img title="PHP" src="https://skillicons.dev/icons?i=php" width="40" height="40" style="margin: 6px;" />
-  <img title="Figma" src="https://skillicons.dev/icons?i=figma" width="40" height="40" style="margin: 6px;" />
-  <img title="Git" src="https://skillicons.dev/icons?i=git" width="40" height="40" style="margin: 6px;" />
-  <img title="GitHub" src="https://skillicons.dev/icons?i=github" width="40" height="40" style="margin: 6px;" />
-  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" width="40" height="40" style="margin: 6px;" />
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="40" height="40" style="margin: 12px;" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="40" height="40" style="margin: 12px;" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="40" height="40" style="margin: 12px;" />
+  <img title="React" src="https://skillicons.dev/icons?i=react" width="40" height="40" style="margin: 12px;" />
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" style="margin: 12px;" />
+  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" style="margin: 12px;" />
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" style="margin: 12px;" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" width="40" height="40" style="margin: 12px;" />
+  <img title="PHP" src="https://skillicons.dev/icons?i=php" width="40" height="40" style="margin: 12px;" />
+  <img title="Figma" src="https://skillicons.dev/icons?i=figma" width="40" height="40" style="margin: 12px;" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" width="40" height="40" style="margin: 12px;" />
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" width="40" height="40" style="margin: 12px;" />
+  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" width="40" height="40" style="margin: 12px;" />
 </p>
+
 
 
 ---
