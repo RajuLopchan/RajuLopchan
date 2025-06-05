@@ -1,9 +1,16 @@
 <!-- Custom Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" width="100%" />
-</p>
+<div style="width: 100%; height: 80px; overflow: hidden; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img 
+    src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" 
+    alt="Banner" 
+    style="width: 100%; height: 100%; object-fit: cover; filter: brightness(0.9);" 
+  />
+</div>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+
+
+
+<h1 align="center">Hi 👋, I'm Raju Lopchan</h1>
 <h3 align="center">Frontend Developer from Nepal | React & Tailwind Enthusiast</h3>
 
 <!-- Typing SVG -->
