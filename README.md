@@ -84,7 +84,7 @@
 ### 🎓 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒
 
 <div align="center">
-  <a href="https://your-mern-certificate-link.com/certificate.pdf" target="_blank" title="MERN Stack Certificate" style="display: inline-block; transition: transform 0.2s ease-in-out;">
+  <a href="https://drive.google.com/file/d/1ka8QcDCTdRhmF7yN0EZ30Cz4qna2XPhS/view?usp=sharing" target="_blank" title="MERN Stack Certificate" style="display: inline-block; transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/MERN-Stack-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" 
          alt="MERN Stack Certificate" 
          onmouseover="this.style.transform='scale(1.1)'" 
