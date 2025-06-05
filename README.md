@@ -92,4 +92,4 @@
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+> _"Good code is its own best documentation." – Steve McConnell
