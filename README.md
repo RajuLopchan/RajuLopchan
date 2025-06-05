@@ -90,6 +90,7 @@
          onmouseover="this.style.transform='scale(1.1)'" 
          onmouseout="this.style.transform='scale(1)'" />
   </a>
+   <p style="margin-top: 10px; font-weight: bold;">Certified by Dursikshya</p>
 </div>
 
 ---
