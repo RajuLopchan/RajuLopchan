@@ -25,14 +25,38 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **responsive web apps with React, Tailwind CSS & JavaScript**
-- 🌱 Exploring **Next.js**, **TypeScript**, and scalable UI patterns
-- 💬 Ask me about **React, Tailwind, CSS architecture, and design systems**
-- ⚡ Fun fact: I enjoy turning ideas into smooth user experiences.
+<div style="text-align: center;">
+  <table style="margin: 20px auto; border-collapse: separate; border-spacing: 15px 18px; width: 700px; font-size: 16px; text-align: left; display: inline-table;">
+    <tbody>
+      <tr>
+        <td style="font-weight: bold; color: #24bcf7; width: 180px;">🔭 Currently Working On</td>
+        <td>Responsive Web Apps with React, Tailwind CSS & JavaScript</td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; color: #24bcf7;">🌱 Currently Learning</td>
+        <td>Next.js, TypeScript, and Scalable UI Patterns</td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; color: #24bcf7;">📫 Reach Me At</td>
+        <td><a href="mailto:your-email@example.com" style="color: #24bcf7; text-decoration: none;">your-email@example.com</a></td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; color: #24bcf7;">🌐 Portfolio</td>
+        <td><a href="http://your-portfolio-link.com" target="_blank" style="color: #24bcf7; text-decoration: none;">your-portfolio-link.com</a></td>
+      </tr>
+      <tr>
+        <td style="font-weight: bold; color: #24bcf7;">⚡ Fun Fact</td>
+        <td>I enjoy turning ideas into smooth user experiences</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ---
 
 ### 🛠️ Tech Stack
+
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 600px; margin: auto;">
   <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="40" height="40" style="margin: 12px;" />
