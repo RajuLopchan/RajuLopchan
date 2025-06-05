@@ -23,6 +23,37 @@
 
 ---
 
+
+<p align="center" style="display: flex; justify-content: center; gap: 70px;">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="transition: transform 0.2s ease-in-out;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+<a href="https://www.facebook.com/your-facebook-username" target="_blank" style="transition: transform 0.2s ease-in-out;">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
+       alt="Facebook"
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+<a href="https://www.instagram.com/your-instagram-username" target="_blank" style="transition: transform 0.2s ease-in-out;">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+       alt="Instagram"
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
+<a href="https://your-portfolio-url.com" target="_blank" style="transition: transform 0.2s ease-in-out;">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" 
+       alt="Portfolio"
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+</p>
+
+---
 ### 👨‍💻 About Me
 
 <div style="text-align: center;">
@@ -87,37 +118,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank" style="transition: transform 0.2s ease-in-out;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="mailto:your-email@example.com" style="transition: transform 0.2s ease-in-out;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Gmail"
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank" style="transition: transform 0.2s ease-in-out;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
-         alt="Twitter"
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank" style="transition: transform 0.2s ease-in-out;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-         alt="GitHub"
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
 </p>
 
 ---
