@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center" style="margin-top: 20px;">Hi 👋, I'm <span style="color:#24bcf7;">Raju Lopchan</span></h1>
-<h3 align="center" style="font-weight: 500; color: #555;">Frontend Developer from Nepal | React & Tailwind Enthusiast</h3>
+<h3 align="center" style="font-weight: 500; color: #555;">Frontend Developer from Nepal | React & Mui Enthusiast</h3>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -53,11 +53,11 @@
     <tbody>
       <tr>
         <td style="font-weight: 600; color: #24bcf7; width: 200px; vertical-align: top; padding: 12px 15px; background-color: #f8fcff; border-radius: 6px;">🔭 Currently Working On</td>
-        <td style="padding: 12px 15px; border-radius: 6px; background-color: #f8f8f8;">Responsive Web Apps with React, Tailwind CSS & JavaScript</td>
+        <td style="padding: 12px 15px; border-radius: 6px; background-color: #f8f8f8;">Responsive Web Apps with React, MUI  & JavaScript</td>
       </tr>
       <tr>
         <td style="font-weight: 600; color: #24bcf7; vertical-align: top; padding: 12px 15px; background-color: #f8fcff; border-radius: 6px;">🌱 Currently Learning</td>
-        <td style="padding: 12px 15px; border-radius: 6px; background-color: #f8f8f8;">Next.js, TypeScript, and Scalable UI Patterns</td>
+        <td style="padding: 12px 15px; border-radius: 6px; background-color: #f8f8f8;"> TypeScript, and Scalable UI Patterns</td>
       </tr>
       <tr>
         <td style="font-weight: 600; color: #24bcf7; vertical-align: top; padding: 12px 15px; background-color: #f8fcff; border-radius: 6px;">📫 Reach Me At</td>
@@ -117,9 +117,7 @@
     <td style="padding: 18px 25px; border-bottom: 1px solid #f0f0f0; font-weight: 600; font-size: 22px; background-color: #f9f9f9; color: #333;">Backend Development</td>
     <td style="padding: 18px 25px; border-bottom: 1px solid #f0f0f0; text-align: right;">
       <span style="display: inline-flex; gap: 12px; flex-wrap: wrap; justify-content: flex-end;">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" height="30">
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="30">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30">
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" height="30">
       </span>
     </td>
   </tr>
@@ -142,7 +140,6 @@
       <span style="display: inline-flex; gap: 12px; flex-wrap: wrap; justify-content: flex-end;">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" height="30">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30">
       </span>
     </td>
   </tr>
